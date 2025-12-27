@@ -31,14 +31,14 @@ This project is a console-based C application developed to manage a cricket tour
 
 ## Tech Stack
 - Language:
- - C
+   - C
 - Libraries:
- - stdio.h
- - stdlib.h
- - string.h
- - time.h
+   - stdio.h
+   - stdlib.h
+   - string.h
+   - time.h
 - Interface:
- - Console-based application
+   - Console-based application
 
 ## Author
 Pranith Reddy Donthireddy
