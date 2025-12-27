@@ -30,9 +30,15 @@ This project is a console-based C application developed to manage a cricket tour
 - Ensures continuity of tournament progress.
 
 ## Tech Stack
-- Language: C
-- Libraries: stdio.h, stdlib.h, string.h, time.h
-- Interface: Console-based application
+- Language:
+ - C
+- Libraries:
+ - stdio.h
+ - stdlib.h
+ - string.h
+ - time.h
+- Interface:
+ - Console-based application
 
 ## Author
 Pranith Reddy Donthireddy
